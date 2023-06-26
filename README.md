@@ -1,5 +1,10 @@
 # Engine Condition Prediction using a Hybrid Transformer-CNN Model
 
+### Link to the Colab Notebook:
+
+https://colab.research.google.com/drive/18zsvAxQQaEVNvF4s3IDe9Z-dqm6y55gt?usp=sharing 
+
+
 This documentation provides an overview and implementation details of a hybrid model used for engine condition prediction. The model combines convolutional neural networks (CNNs) and transformers to achieve accurate predictions. The code snippets and explanations provided here can be used as a reference for implementing a similar model for engine condition prediction using the PyTorch framework.
 
 
